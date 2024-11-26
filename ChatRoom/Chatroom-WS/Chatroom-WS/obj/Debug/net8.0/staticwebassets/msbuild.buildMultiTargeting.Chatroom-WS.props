@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chatroom-WS.props" />
+</Project>

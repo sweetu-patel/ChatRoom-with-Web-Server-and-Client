@@ -1,0 +1,14 @@
+D:\Learning\Chatroom-Client\Chatroom-Client\bin\Debug\net8.0\Chatroom-Client.exe
+D:\Learning\Chatroom-Client\Chatroom-Client\bin\Debug\net8.0\Chatroom-Client.deps.json
+D:\Learning\Chatroom-Client\Chatroom-Client\bin\Debug\net8.0\Chatroom-Client.runtimeconfig.json
+D:\Learning\Chatroom-Client\Chatroom-Client\bin\Debug\net8.0\Chatroom-Client.dll
+D:\Learning\Chatroom-Client\Chatroom-Client\bin\Debug\net8.0\Chatroom-Client.pdb
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\Chatroom-Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\Chatroom-Client.AssemblyInfoInputs.cache
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\Chatroom-Client.AssemblyInfo.cs
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\Chatroom-Client.csproj.CoreCompileInputs.cache
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\Chatroom-Client.dll
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\refint\Chatroom-Client.dll
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\Chatroom-Client.pdb
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\Chatroom-Client.genruntimeconfig.cache
+D:\Learning\Chatroom-Client\Chatroom-Client\obj\Debug\net8.0\ref\Chatroom-Client.dll
